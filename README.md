@@ -2,11 +2,11 @@
 #### When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 # HtmL uses elements to describe the structure of Page
-* <h1></h1>
-* <h2></h2>
-* <p></p>
-* <html></html>
-* <body></body>
+1. <h1></h1>
+2. <h2></h2>
+3. <p></p>
+4. <html></html>
+5. <body></body>
 
 ### Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 
